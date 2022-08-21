@@ -1,0 +1,15 @@
+C:\Users\Антон\Desktop\Basic C#\68А\bin\Debug\net6.0\68А.exe
+C:\Users\Антон\Desktop\Basic C#\68А\bin\Debug\net6.0\68А.deps.json
+C:\Users\Антон\Desktop\Basic C#\68А\bin\Debug\net6.0\68А.runtimeconfig.json
+C:\Users\Антон\Desktop\Basic C#\68А\bin\Debug\net6.0\68А.dll
+C:\Users\Антон\Desktop\Basic C#\68А\bin\Debug\net6.0\68А.pdb
+C:\Users\Антон\Desktop\Basic C#\68А\obj\Debug\net6.0\68А.csproj.AssemblyReference.cache
+C:\Users\Антон\Desktop\Basic C#\68А\obj\Debug\net6.0\68А.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\Desktop\Basic C#\68А\obj\Debug\net6.0\68А.AssemblyInfoInputs.cache
+C:\Users\Антон\Desktop\Basic C#\68А\obj\Debug\net6.0\68А.AssemblyInfo.cs
+C:\Users\Антон\Desktop\Basic C#\68А\obj\Debug\net6.0\68А.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\Basic C#\68А\obj\Debug\net6.0\68А.dll
+C:\Users\Антон\Desktop\Basic C#\68А\obj\Debug\net6.0\refint\68А.dll
+C:\Users\Антон\Desktop\Basic C#\68А\obj\Debug\net6.0\68А.pdb
+C:\Users\Антон\Desktop\Basic C#\68А\obj\Debug\net6.0\68А.genruntimeconfig.cache
+C:\Users\Антон\Desktop\Basic C#\68А\obj\Debug\net6.0\ref\68А.dll
